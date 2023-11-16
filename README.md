@@ -1,0 +1,7 @@
+CODSOFT -TASK 1
+CREATING A LANDING PAGE USING HTML AND CSS
+AUTHOUR: KARTHIK M S
+BACTH: NOVEMBER 
+DOMAIN: WEB DEVLOMENT 
+AIM :
+The aim of this project is to create a simple landing page using HTML AND CSS
